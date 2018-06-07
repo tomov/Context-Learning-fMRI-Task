@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+22,3,0,irrelevant,0,1,True,1,False,3,1,1,1.0,10,15.0,16.0,mexican_food0.png,Molina's Cantina
+22,3,1,irrelevant,0,0,True,1,False,3,1,1,3.0,16.0,21.0,24.0,mexican_food0.png,Restaurante Arroyo
+22,3,2,irrelevant,0,1,True,1,False,3,1,1,3.0,24.0,29.0,32.0,mexican_food0.png,Molina's Cantina
+22,3,3,irrelevant,0,0,True,1,False,3,1,1,3.0,32.0,37.0,40.0,mexican_food0.png,Restaurante Arroyo
+22,3,4,irrelevant,0,0,True,1,False,3,1,1,1.0,40.0,45.0,46.0,mexican_food0.png,Restaurante Arroyo
+22,3,5,irrelevant,1,0,False,2,False,3,1,1,1.0,46.0,51.0,52.0,mexican_food2.png,Restaurante Arroyo
+22,3,6,irrelevant,1,1,False,2,False,3,1,1,1.0,52.0,57.0,58.0,mexican_food2.png,Molina's Cantina
+22,3,7,irrelevant,1,0,False,2,False,3,1,1,1.0,58.0,63.0,64.0,mexican_food2.png,Restaurante Arroyo
+22,3,8,irrelevant,0,0,True,1,False,3,1,1,3.0,64.0,69.0,72.0,mexican_food0.png,Restaurante Arroyo
+22,3,9,irrelevant,0,1,True,1,False,3,1,1,5.0,72.0,77.0,82.0,mexican_food0.png,Molina's Cantina
+22,3,10,irrelevant,1,0,False,2,False,3,1,1,5.0,82.0,87.0,92.0,mexican_food2.png,Restaurante Arroyo
+22,3,11,irrelevant,1,1,False,2,False,3,1,1,1.0,92.0,97.0,98.0,mexican_food2.png,Molina's Cantina
+22,3,12,irrelevant,1,1,False,2,False,3,1,1,5.0,98.0,103.0,108.0,mexican_food2.png,Molina's Cantina
+22,3,13,irrelevant,1,0,False,2,False,3,1,1,1.0,108.0,113.0,114.0,mexican_food2.png,Restaurante Arroyo
+22,3,14,irrelevant,0,1,True,1,False,3,1,1,1.0,114.0,119.0,120.0,mexican_food0.png,Molina's Cantina
+22,3,15,irrelevant,1,0,False,2,False,3,1,1,3.0,120.0,125.0,128.0,mexican_food2.png,Restaurante Arroyo
+22,3,16,irrelevant,0,0,True,1,False,3,1,1,1.0,128.0,133.0,134.0,mexican_food0.png,Restaurante Arroyo
+22,3,17,irrelevant,0,1,True,1,False,3,1,1,1.0,134.0,139.0,140.0,mexican_food0.png,Molina's Cantina
+22,3,18,irrelevant,1,1,False,2,False,3,1,1,3.0,140.0,145.0,148.0,mexican_food2.png,Molina's Cantina
+22,3,19,irrelevant,1,1,False,2,False,3,1,1,1.0,148.0,153.0,154.0,mexican_food2.png,Molina's Cantina
+22,3,20,irrelevant,0,2,None,None,True,6,0,0,6,158.0,164.0,170.0,mexican_food0.png,El Coyote Cafe
+22,3,21,irrelevant,2,0,None,None,True,6,0,0,4,170.0,176.0,180.0,mexican_food1.png,Restaurante Arroyo
+22,3,22,irrelevant,0,0,None,None,True,6,0,0,2,180.0,186.0,188.0,mexican_food0.png,Restaurante Arroyo
+22,3,23,irrelevant,2,2,None,None,True,6,0,0,0,188.0,194.0,194.0,mexican_food1.png,El Coyote Cafe

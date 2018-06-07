@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+16,4,0,irrelevant,0,0,True,1,False,3,1,1,1.0,10,15.0,16.0,chinese_food2.png,Lau's Dim Sum Bar
+16,4,1,irrelevant,0,0,True,1,False,3,1,1,3.0,16.0,21.0,24.0,chinese_food2.png,Lau's Dim Sum Bar
+16,4,2,irrelevant,1,1,False,2,False,3,1,1,1.0,24.0,29.0,30.0,chinese_food0.png,Happy Lamb Hot Pot
+16,4,3,irrelevant,1,1,False,2,False,3,1,1,5.0,30.0,35.0,40.0,chinese_food0.png,Happy Lamb Hot Pot
+16,4,4,irrelevant,1,0,False,2,False,3,1,1,1.0,40.0,45.0,46.0,chinese_food0.png,Lau's Dim Sum Bar
+16,4,5,irrelevant,0,1,True,1,False,3,1,1,1.0,46.0,51.0,52.0,chinese_food2.png,Happy Lamb Hot Pot
+16,4,6,irrelevant,1,0,False,2,False,3,1,1,3.0,52.0,57.0,60.0,chinese_food0.png,Lau's Dim Sum Bar
+16,4,7,irrelevant,0,1,True,1,False,3,1,1,7.0,60.0,65.0,72.0,chinese_food2.png,Happy Lamb Hot Pot
+16,4,8,irrelevant,0,0,True,1,False,3,1,1,1.0,72.0,77.0,78.0,chinese_food2.png,Lau's Dim Sum Bar
+16,4,9,irrelevant,1,0,False,2,False,3,1,1,1.0,78.0,83.0,84.0,chinese_food0.png,Lau's Dim Sum Bar
+16,4,10,irrelevant,0,0,True,1,False,3,1,1,5.0,84.0,89.0,94.0,chinese_food2.png,Lau's Dim Sum Bar
+16,4,11,irrelevant,0,1,True,1,False,3,1,1,1.0,94.0,99.0,100.0,chinese_food2.png,Happy Lamb Hot Pot
+16,4,12,irrelevant,1,1,False,2,False,3,1,1,1.0,100.0,105.0,106.0,chinese_food0.png,Happy Lamb Hot Pot
+16,4,13,irrelevant,0,0,True,1,False,3,1,1,3.0,106.0,111.0,114.0,chinese_food2.png,Lau's Dim Sum Bar
+16,4,14,irrelevant,0,1,True,1,False,3,1,1,3.0,114.0,119.0,122.0,chinese_food2.png,Happy Lamb Hot Pot
+16,4,15,irrelevant,1,1,False,2,False,3,1,1,1.0,122.0,127.0,128.0,chinese_food0.png,Happy Lamb Hot Pot
+16,4,16,irrelevant,1,0,False,2,False,3,1,1,1.0,128.0,133.0,134.0,chinese_food0.png,Lau's Dim Sum Bar
+16,4,17,irrelevant,1,1,False,2,False,3,1,1,1.0,134.0,139.0,140.0,chinese_food0.png,Happy Lamb Hot Pot
+16,4,18,irrelevant,0,1,True,1,False,3,1,1,3.0,140.0,145.0,148.0,chinese_food2.png,Happy Lamb Hot Pot
+16,4,19,irrelevant,1,0,False,2,False,3,1,1,1.0,148.0,153.0,154.0,chinese_food0.png,Lau's Dim Sum Bar
+16,4,20,irrelevant,2,2,None,None,True,6,0,0,6,158.0,164.0,170.0,chinese_food1.png,Shanghai Dumpling King
+16,4,21,irrelevant,2,0,None,None,True,6,0,0,2,170.0,176.0,178.0,chinese_food1.png,Lau's Dim Sum Bar
+16,4,22,irrelevant,0,0,None,None,True,6,0,0,4,178.0,184.0,188.0,chinese_food2.png,Lau's Dim Sum Bar
+16,4,23,irrelevant,0,2,None,None,True,6,0,0,0,188.0,194.0,194.0,chinese_food2.png,Shanghai Dumpling King

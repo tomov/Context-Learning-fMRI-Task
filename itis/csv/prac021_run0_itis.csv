@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+21,0,0,irrelevant,0,0,True,1,False,3,1,1,5.0,10,15.0,20.0,practice_food2.png,Seven Hills
+21,0,1,irrelevant,1,0,False,2,False,3,1,1,3.0,20.0,25.0,28.0,practice_food1.png,Seven Hills
+21,0,2,irrelevant,0,0,True,1,False,3,1,1,1.0,28.0,33.0,34.0,practice_food2.png,Seven Hills
+21,0,3,irrelevant,0,1,True,1,False,3,1,1,1.0,34.0,39.0,40.0,practice_food2.png,Blue Bottle Cafe
+21,0,4,irrelevant,1,1,False,2,False,3,1,1,5.0,40.0,45.0,50.0,practice_food1.png,Blue Bottle Cafe
+21,0,5,irrelevant,1,0,False,2,False,3,1,1,3.0,50.0,55.0,58.0,practice_food1.png,Seven Hills
+21,0,6,irrelevant,1,0,False,2,False,3,1,1,1.0,58.0,63.0,64.0,practice_food1.png,Seven Hills
+21,0,7,irrelevant,0,0,True,1,False,3,1,1,3.0,64.0,69.0,72.0,practice_food2.png,Seven Hills
+21,0,8,irrelevant,0,1,True,1,False,3,1,1,1.0,72.0,77.0,78.0,practice_food2.png,Blue Bottle Cafe
+21,0,9,irrelevant,0,1,True,1,False,3,1,1,1.0,78.0,83.0,84.0,practice_food2.png,Blue Bottle Cafe
+21,0,10,irrelevant,1,0,False,2,False,3,1,1,3.0,84.0,89.0,92.0,practice_food1.png,Seven Hills
+21,0,11,irrelevant,0,1,True,1,False,3,1,1,5.0,92.0,97.0,102.0,practice_food2.png,Blue Bottle Cafe
+21,0,12,irrelevant,1,1,False,2,False,3,1,1,1.0,102.0,107.0,108.0,practice_food1.png,Blue Bottle Cafe
+21,0,13,irrelevant,0,0,True,1,False,3,1,1,1.0,108.0,113.0,114.0,practice_food2.png,Seven Hills
+21,0,14,irrelevant,0,0,True,1,False,3,1,1,1.0,114.0,119.0,120.0,practice_food2.png,Seven Hills
+21,0,15,irrelevant,1,0,False,2,False,3,1,1,1.0,120.0,125.0,126.0,practice_food1.png,Seven Hills
+21,0,16,irrelevant,1,1,False,2,False,3,1,1,1.0,126.0,131.0,132.0,practice_food1.png,Blue Bottle Cafe
+21,0,17,irrelevant,1,1,False,2,False,3,1,1,3.0,132.0,137.0,140.0,practice_food1.png,Blue Bottle Cafe
+21,0,18,irrelevant,1,1,False,2,False,3,1,1,1.0,140.0,145.0,146.0,practice_food1.png,Blue Bottle Cafe
+21,0,19,irrelevant,0,1,True,1,False,3,1,1,3.0,146.0,151.0,154.0,practice_food2.png,Blue Bottle Cafe
+21,0,20,irrelevant,0,0,None,None,True,6,0,0,2,158.0,164.0,166.0,practice_food2.png,Seven Hills
+21,0,21,irrelevant,2,0,None,None,True,6,0,0,4,166.0,172.0,176.0,practice_food0.png,Seven Hills
+21,0,22,irrelevant,0,2,None,None,True,6,0,0,6,176.0,182.0,188.0,practice_food2.png,Restaurant Gary Danko
+21,0,23,irrelevant,2,2,None,None,True,6,0,0,0,188.0,194.0,194.0,practice_food0.png,Restaurant Gary Danko

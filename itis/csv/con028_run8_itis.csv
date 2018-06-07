@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+28,8,0,irrelevant,0,0,True,1,False,3,1,1,1.0,10,15.0,16.0,indian_food2.png,Curry Leaf Restaurant
+28,8,1,irrelevant,1,0,False,2,False,3,1,1,1.0,16.0,21.0,22.0,indian_food0.png,Curry Leaf Restaurant
+28,8,2,irrelevant,0,1,True,1,False,3,1,1,3.0,22.0,27.0,30.0,indian_food2.png,Tandoori Kitchen
+28,8,3,irrelevant,0,1,True,1,False,3,1,1,1.0,30.0,35.0,36.0,indian_food2.png,Tandoori Kitchen
+28,8,4,irrelevant,1,0,False,2,False,3,1,1,3.0,36.0,41.0,44.0,indian_food0.png,Curry Leaf Restaurant
+28,8,5,irrelevant,0,0,True,1,False,3,1,1,1.0,44.0,49.0,50.0,indian_food2.png,Curry Leaf Restaurant
+28,8,6,irrelevant,0,1,True,1,False,3,1,1,1.0,50.0,55.0,56.0,indian_food2.png,Tandoori Kitchen
+28,8,7,irrelevant,1,1,False,2,False,3,1,1,1.0,56.0,61.0,62.0,indian_food0.png,Tandoori Kitchen
+28,8,8,irrelevant,0,1,True,1,False,3,1,1,5.0,62.0,67.0,72.0,indian_food2.png,Tandoori Kitchen
+28,8,9,irrelevant,1,0,False,2,False,3,1,1,1.0,72.0,77.0,78.0,indian_food0.png,Curry Leaf Restaurant
+28,8,10,irrelevant,1,1,False,2,False,3,1,1,1.0,78.0,83.0,84.0,indian_food0.png,Tandoori Kitchen
+28,8,11,irrelevant,1,1,False,2,False,3,1,1,3.0,84.0,89.0,92.0,indian_food0.png,Tandoori Kitchen
+28,8,12,irrelevant,0,1,True,1,False,3,1,1,1.0,92.0,97.0,98.0,indian_food2.png,Tandoori Kitchen
+28,8,13,irrelevant,1,0,False,2,False,3,1,1,3.0,98.0,103.0,106.0,indian_food0.png,Curry Leaf Restaurant
+28,8,14,irrelevant,1,0,False,2,False,3,1,1,1.0,106.0,111.0,112.0,indian_food0.png,Curry Leaf Restaurant
+28,8,15,irrelevant,0,0,True,1,False,3,1,1,5.0,112.0,117.0,122.0,indian_food2.png,Curry Leaf Restaurant
+28,8,16,irrelevant,0,0,True,1,False,3,1,1,1.0,122.0,127.0,128.0,indian_food2.png,Curry Leaf Restaurant
+28,8,17,irrelevant,0,0,True,1,False,3,1,1,3.0,128.0,133.0,136.0,indian_food2.png,Curry Leaf Restaurant
+28,8,18,irrelevant,1,1,False,2,False,3,1,1,3.0,136.0,141.0,144.0,indian_food0.png,Tandoori Kitchen
+28,8,19,irrelevant,1,1,False,2,False,3,1,1,5.0,144.0,149.0,154.0,indian_food0.png,Tandoori Kitchen
+28,8,20,irrelevant,0,0,None,None,True,6,0,0,4,158.0,164.0,168.0,indian_food2.png,Curry Leaf Restaurant
+28,8,21,irrelevant,2,2,None,None,True,6,0,0,2,168.0,174.0,176.0,indian_food1.png,Little Delhi House
+28,8,22,irrelevant,0,2,None,None,True,6,0,0,6,176.0,182.0,188.0,indian_food2.png,Little Delhi House
+28,8,23,irrelevant,2,0,None,None,True,6,0,0,0,188.0,194.0,194.0,indian_food1.png,Curry Leaf Restaurant

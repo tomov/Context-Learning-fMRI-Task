@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+29,4,0,irrelevant,0,1,True,1,False,3,1,1,1.0,10,15.0,16.0,italian_food0.png,Restorante Milano
+29,4,1,irrelevant,1,1,False,2,False,3,1,1,1.0,16.0,21.0,22.0,italian_food2.png,Restorante Milano
+29,4,2,irrelevant,0,1,True,1,False,3,1,1,1.0,22.0,27.0,28.0,italian_food0.png,Restorante Milano
+29,4,3,irrelevant,0,1,True,1,False,3,1,1,5.0,28.0,33.0,38.0,italian_food0.png,Restorante Milano
+29,4,4,irrelevant,0,1,True,1,False,3,1,1,5.0,38.0,43.0,48.0,italian_food0.png,Restorante Milano
+29,4,5,irrelevant,1,0,False,2,False,3,1,1,3.0,48.0,53.0,56.0,italian_food2.png,Fino Bar & Restorante
+29,4,6,irrelevant,0,0,True,1,False,3,1,1,1.0,56.0,61.0,62.0,italian_food0.png,Fino Bar & Restorante
+29,4,7,irrelevant,0,1,True,1,False,3,1,1,1.0,62.0,67.0,68.0,italian_food0.png,Restorante Milano
+29,4,8,irrelevant,1,0,False,2,False,3,1,1,1.0,68.0,73.0,74.0,italian_food2.png,Fino Bar & Restorante
+29,4,9,irrelevant,1,0,False,2,False,3,1,1,5.0,74.0,79.0,84.0,italian_food2.png,Fino Bar & Restorante
+29,4,10,irrelevant,1,1,False,2,False,3,1,1,1.0,84.0,89.0,90.0,italian_food2.png,Restorante Milano
+29,4,11,irrelevant,1,0,False,2,False,3,1,1,1.0,90.0,95.0,96.0,italian_food2.png,Fino Bar & Restorante
+29,4,12,irrelevant,1,1,False,2,False,3,1,1,3.0,96.0,101.0,104.0,italian_food2.png,Restorante Milano
+29,4,13,irrelevant,1,0,False,2,False,3,1,1,5.0,104.0,109.0,114.0,italian_food2.png,Fino Bar & Restorante
+29,4,14,irrelevant,1,1,False,2,False,3,1,1,3.0,114.0,119.0,122.0,italian_food2.png,Restorante Milano
+29,4,15,irrelevant,0,0,True,1,False,3,1,1,3.0,122.0,127.0,130.0,italian_food0.png,Fino Bar & Restorante
+29,4,16,irrelevant,0,0,True,1,False,3,1,1,1.0,130.0,135.0,136.0,italian_food0.png,Fino Bar & Restorante
+29,4,17,irrelevant,0,0,True,1,False,3,1,1,1.0,136.0,141.0,142.0,italian_food0.png,Fino Bar & Restorante
+29,4,18,irrelevant,1,1,False,2,False,3,1,1,1.0,142.0,147.0,148.0,italian_food2.png,Restorante Milano
+29,4,19,irrelevant,0,0,True,1,False,3,1,1,1.0,148.0,153.0,154.0,italian_food0.png,Fino Bar & Restorante
+29,4,20,irrelevant,0,2,None,None,True,6,0,0,2,158.0,164.0,166.0,italian_food0.png,Trattoria Contadina
+29,4,21,irrelevant,0,0,None,None,True,6,0,0,4,166.0,172.0,176.0,italian_food0.png,Fino Bar & Restorante
+29,4,22,irrelevant,2,0,None,None,True,6,0,0,6,176.0,182.0,188.0,italian_food1.png,Fino Bar & Restorante
+29,4,23,irrelevant,2,2,None,None,True,6,0,0,0,188.0,194.0,194.0,italian_food1.png,Trattoria Contadina

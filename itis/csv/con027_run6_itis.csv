@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+27,6,0,additive,0,1,False,2,False,3,1,1,1.0,10,15.0,16.0,greek_food2.png,Myconos Restaurant
+27,6,1,additive,0,1,False,2,False,3,1,1,3.0,16.0,21.0,24.0,greek_food2.png,Myconos Restaurant
+27,6,2,additive,0,0,True,1,False,3,1,1,1.0,24.0,29.0,30.0,greek_food2.png,Mediterranean Grill
+27,6,3,additive,0,0,True,1,False,3,1,1,3.0,30.0,35.0,38.0,greek_food2.png,Mediterranean Grill
+27,6,4,additive,1,0,True,1,False,3,1,1,1.0,38.0,43.0,44.0,greek_food0.png,Mediterranean Grill
+27,6,5,additive,0,1,False,2,False,3,1,1,1.0,44.0,49.0,50.0,greek_food2.png,Myconos Restaurant
+27,6,6,additive,1,0,True,1,False,3,1,1,5.0,50.0,55.0,60.0,greek_food0.png,Mediterranean Grill
+27,6,7,additive,1,1,False,2,False,3,1,1,1.0,60.0,65.0,66.0,greek_food0.png,Myconos Restaurant
+27,6,8,additive,1,1,False,2,False,3,1,1,5.0,66.0,71.0,76.0,greek_food0.png,Myconos Restaurant
+27,6,9,additive,1,1,False,2,False,3,1,1,1.0,76.0,81.0,82.0,greek_food0.png,Myconos Restaurant
+27,6,10,additive,0,1,False,2,False,3,1,1,1.0,82.0,87.0,88.0,greek_food2.png,Myconos Restaurant
+27,6,11,additive,0,0,True,1,False,3,1,1,1.0,88.0,93.0,94.0,greek_food2.png,Mediterranean Grill
+27,6,12,additive,1,0,True,1,False,3,1,1,7.0,94.0,99.0,106.0,greek_food0.png,Mediterranean Grill
+27,6,13,additive,0,0,True,1,False,3,1,1,1.0,106.0,111.0,112.0,greek_food2.png,Mediterranean Grill
+27,6,14,additive,1,1,False,2,False,3,1,1,1.0,112.0,117.0,118.0,greek_food0.png,Myconos Restaurant
+27,6,15,additive,1,1,False,2,False,3,1,1,1.0,118.0,123.0,124.0,greek_food0.png,Myconos Restaurant
+27,6,16,additive,1,0,True,1,False,3,1,1,3.0,124.0,129.0,132.0,greek_food0.png,Mediterranean Grill
+27,6,17,additive,1,0,True,1,False,3,1,1,1.0,132.0,137.0,138.0,greek_food0.png,Mediterranean Grill
+27,6,18,additive,0,0,True,1,False,3,1,1,5.0,138.0,143.0,148.0,greek_food2.png,Mediterranean Grill
+27,6,19,additive,0,1,False,2,False,3,1,1,1.0,148.0,153.0,154.0,greek_food2.png,Myconos Restaurant
+27,6,20,additive,0,0,None,None,True,6,0,0,6,158.0,164.0,170.0,greek_food2.png,Mediterranean Grill
+27,6,21,additive,2,2,None,None,True,6,0,0,2,170.0,176.0,178.0,greek_food1.png,Gyro King
+27,6,22,additive,0,2,None,None,True,6,0,0,4,178.0,184.0,188.0,greek_food2.png,Gyro King
+27,6,23,additive,2,0,None,None,True,6,0,0,0,188.0,194.0,194.0,greek_food1.png,Mediterranean Grill

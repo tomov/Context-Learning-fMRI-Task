@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+27,5,0,additive,0,0,True,1,False,3,1,1,3.0,10,15.0,18.0,brunch_food2.png,Breakfast at Tiffany's
+27,5,1,additive,1,0,True,1,False,3,1,1,1.0,18.0,23.0,24.0,brunch_food1.png,Breakfast at Tiffany's
+27,5,2,additive,0,1,False,2,False,3,1,1,1.0,24.0,29.0,30.0,brunch_food2.png,Mission Beach Cafe
+27,5,3,additive,0,1,False,2,False,3,1,1,1.0,30.0,35.0,36.0,brunch_food2.png,Mission Beach Cafe
+27,5,4,additive,1,1,False,2,False,3,1,1,7.0,36.0,41.0,48.0,brunch_food1.png,Mission Beach Cafe
+27,5,5,additive,0,1,False,2,False,3,1,1,1.0,48.0,53.0,54.0,brunch_food2.png,Mission Beach Cafe
+27,5,6,additive,0,0,True,1,False,3,1,1,1.0,54.0,59.0,60.0,brunch_food2.png,Breakfast at Tiffany's
+27,5,7,additive,1,0,True,1,False,3,1,1,1.0,60.0,65.0,66.0,brunch_food1.png,Breakfast at Tiffany's
+27,5,8,additive,1,0,True,1,False,3,1,1,5.0,66.0,71.0,76.0,brunch_food1.png,Breakfast at Tiffany's
+27,5,9,additive,1,1,False,2,False,3,1,1,1.0,76.0,81.0,82.0,brunch_food1.png,Mission Beach Cafe
+27,5,10,additive,1,0,True,1,False,3,1,1,3.0,82.0,87.0,90.0,brunch_food1.png,Breakfast at Tiffany's
+27,5,11,additive,0,0,True,1,False,3,1,1,3.0,90.0,95.0,98.0,brunch_food2.png,Breakfast at Tiffany's
+27,5,12,additive,1,1,False,2,False,3,1,1,3.0,98.0,103.0,106.0,brunch_food1.png,Mission Beach Cafe
+27,5,13,additive,0,0,True,1,False,3,1,1,1.0,106.0,111.0,112.0,brunch_food2.png,Breakfast at Tiffany's
+27,5,14,additive,0,1,False,2,False,3,1,1,1.0,112.0,117.0,118.0,brunch_food2.png,Mission Beach Cafe
+27,5,15,additive,0,0,True,1,False,3,1,1,3.0,118.0,123.0,126.0,brunch_food2.png,Breakfast at Tiffany's
+27,5,16,additive,0,1,False,2,False,3,1,1,5.0,126.0,131.0,136.0,brunch_food2.png,Mission Beach Cafe
+27,5,17,additive,1,0,True,1,False,3,1,1,1.0,136.0,141.0,142.0,brunch_food1.png,Breakfast at Tiffany's
+27,5,18,additive,1,1,False,2,False,3,1,1,1.0,142.0,147.0,148.0,brunch_food1.png,Mission Beach Cafe
+27,5,19,additive,1,1,False,2,False,3,1,1,1.0,148.0,153.0,154.0,brunch_food1.png,Mission Beach Cafe
+27,5,20,additive,2,0,None,None,True,6,0,0,2,158.0,164.0,166.0,brunch_food0.png,Breakfast at Tiffany's
+27,5,21,additive,0,0,None,None,True,6,0,0,6,166.0,172.0,178.0,brunch_food2.png,Breakfast at Tiffany's
+27,5,22,additive,2,2,None,None,True,6,0,0,4,178.0,184.0,188.0,brunch_food0.png,Sweet Maple
+27,5,23,additive,0,2,None,None,True,6,0,0,0,188.0,194.0,194.0,brunch_food2.png,Sweet Maple

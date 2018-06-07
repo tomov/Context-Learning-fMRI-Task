@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+33,7,0,modulatory,0,1,False,2,False,3,1,1,1.0,10,15.0,16.0,fast_food1.png,Metro Drive-In
+33,7,1,modulatory,1,0,False,2,False,3,1,1,1.0,16.0,21.0,22.0,fast_food2.png,Burger Masters
+33,7,2,modulatory,1,1,True,1,False,3,1,1,1.0,22.0,27.0,28.0,fast_food2.png,Metro Drive-In
+33,7,3,modulatory,1,1,True,1,False,3,1,1,1.0,28.0,33.0,34.0,fast_food2.png,Metro Drive-In
+33,7,4,modulatory,0,0,True,1,False,3,1,1,1.0,34.0,39.0,40.0,fast_food1.png,Burger Masters
+33,7,5,modulatory,0,0,True,1,False,3,1,1,3.0,40.0,45.0,48.0,fast_food1.png,Burger Masters
+33,7,6,modulatory,1,1,True,1,False,3,1,1,1.0,48.0,53.0,54.0,fast_food2.png,Metro Drive-In
+33,7,7,modulatory,1,0,False,2,False,3,1,1,3.0,54.0,59.0,62.0,fast_food2.png,Burger Masters
+33,7,8,modulatory,1,0,False,2,False,3,1,1,5.0,62.0,67.0,72.0,fast_food2.png,Burger Masters
+33,7,9,modulatory,0,1,False,2,False,3,1,1,1.0,72.0,77.0,78.0,fast_food1.png,Metro Drive-In
+33,7,10,modulatory,1,1,True,1,False,3,1,1,1.0,78.0,83.0,84.0,fast_food2.png,Metro Drive-In
+33,7,11,modulatory,0,1,False,2,False,3,1,1,7.0,84.0,89.0,96.0,fast_food1.png,Metro Drive-In
+33,7,12,modulatory,1,0,False,2,False,3,1,1,1.0,96.0,101.0,102.0,fast_food2.png,Burger Masters
+33,7,13,modulatory,1,0,False,2,False,3,1,1,1.0,102.0,107.0,108.0,fast_food2.png,Burger Masters
+33,7,14,modulatory,0,0,True,1,False,3,1,1,7.0,108.0,113.0,120.0,fast_food1.png,Burger Masters
+33,7,15,modulatory,0,0,True,1,False,3,1,1,1.0,120.0,125.0,126.0,fast_food1.png,Burger Masters
+33,7,16,modulatory,0,1,False,2,False,3,1,1,1.0,126.0,131.0,132.0,fast_food1.png,Metro Drive-In
+33,7,17,modulatory,0,1,False,2,False,3,1,1,3.0,132.0,137.0,140.0,fast_food1.png,Metro Drive-In
+33,7,18,modulatory,0,0,True,1,False,3,1,1,3.0,140.0,145.0,148.0,fast_food1.png,Burger Masters
+33,7,19,modulatory,1,1,True,1,False,3,1,1,1.0,148.0,153.0,154.0,fast_food2.png,Metro Drive-In
+33,7,20,modulatory,0,0,None,None,True,6,0,0,4,158.0,164.0,168.0,fast_food1.png,Burger Masters
+33,7,21,modulatory,2,2,None,None,True,6,0,0,2,168.0,174.0,176.0,fast_food0.png,Dave's Sandwiches
+33,7,22,modulatory,0,2,None,None,True,6,0,0,6,176.0,182.0,188.0,fast_food1.png,Dave's Sandwiches
+33,7,23,modulatory,2,0,None,None,True,6,0,0,0,188.0,194.0,194.0,fast_food0.png,Burger Masters

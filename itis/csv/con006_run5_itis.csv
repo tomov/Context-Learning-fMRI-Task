@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+6,5,0,additive,1,1,False,2,False,3,1,1,1.0,10,15.0,16.0,chinese_food2.png,Shanghai Dumpling King
+6,5,1,additive,0,1,False,2,False,3,1,1,1.0,16.0,21.0,22.0,chinese_food1.png,Shanghai Dumpling King
+6,5,2,additive,1,0,True,1,False,3,1,1,1.0,22.0,27.0,28.0,chinese_food2.png,Lau's Dim Sum Bar
+6,5,3,additive,1,0,True,1,False,3,1,1,1.0,28.0,33.0,34.0,chinese_food2.png,Lau's Dim Sum Bar
+6,5,4,additive,0,1,False,2,False,3,1,1,1.0,34.0,39.0,40.0,chinese_food1.png,Shanghai Dumpling King
+6,5,5,additive,0,0,True,1,False,3,1,1,1.0,40.0,45.0,46.0,chinese_food1.png,Lau's Dim Sum Bar
+6,5,6,additive,0,0,True,1,False,3,1,1,3.0,46.0,51.0,54.0,chinese_food1.png,Lau's Dim Sum Bar
+6,5,7,additive,1,0,True,1,False,3,1,1,3.0,54.0,59.0,62.0,chinese_food2.png,Lau's Dim Sum Bar
+6,5,8,additive,1,1,False,2,False,3,1,1,3.0,62.0,67.0,70.0,chinese_food2.png,Shanghai Dumpling King
+6,5,9,additive,1,1,False,2,False,3,1,1,5.0,70.0,75.0,80.0,chinese_food2.png,Shanghai Dumpling King
+6,5,10,additive,0,0,True,1,False,3,1,1,3.0,80.0,85.0,88.0,chinese_food1.png,Lau's Dim Sum Bar
+6,5,11,additive,0,1,False,2,False,3,1,1,3.0,88.0,93.0,96.0,chinese_food1.png,Shanghai Dumpling King
+6,5,12,additive,0,1,False,2,False,3,1,1,3.0,96.0,101.0,104.0,chinese_food1.png,Shanghai Dumpling King
+6,5,13,additive,0,0,True,1,False,3,1,1,1.0,104.0,109.0,110.0,chinese_food1.png,Lau's Dim Sum Bar
+6,5,14,additive,1,0,True,1,False,3,1,1,3.0,110.0,115.0,118.0,chinese_food2.png,Lau's Dim Sum Bar
+6,5,15,additive,0,1,False,2,False,3,1,1,1.0,118.0,123.0,124.0,chinese_food1.png,Shanghai Dumpling King
+6,5,16,additive,1,1,False,2,False,3,1,1,1.0,124.0,129.0,130.0,chinese_food2.png,Shanghai Dumpling King
+6,5,17,additive,0,0,True,1,False,3,1,1,7.0,130.0,135.0,142.0,chinese_food1.png,Lau's Dim Sum Bar
+6,5,18,additive,1,0,True,1,False,3,1,1,1.0,142.0,147.0,148.0,chinese_food2.png,Lau's Dim Sum Bar
+6,5,19,additive,1,1,False,2,False,3,1,1,1.0,148.0,153.0,154.0,chinese_food2.png,Shanghai Dumpling King
+6,5,20,additive,0,2,None,None,True,6,0,0,6,158.0,164.0,170.0,chinese_food1.png,Happy Lamb Hot Pot
+6,5,21,additive,2,2,None,None,True,6,0,0,4,170.0,176.0,180.0,chinese_food0.png,Happy Lamb Hot Pot
+6,5,22,additive,0,0,None,None,True,6,0,0,2,180.0,186.0,188.0,chinese_food1.png,Lau's Dim Sum Bar
+6,5,23,additive,2,0,None,None,True,6,0,0,0,188.0,194.0,194.0,chinese_food0.png,Lau's Dim Sum Bar

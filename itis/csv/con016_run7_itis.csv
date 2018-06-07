@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+16,7,0,additive,1,0,True,1,False,3,1,1,1.0,10,15.0,16.0,french_food0.png,Au Petit Sud Ouest
+16,7,1,additive,0,0,True,1,False,3,1,1,1.0,16.0,21.0,22.0,french_food2.png,Au Petit Sud Ouest
+16,7,2,additive,1,1,False,2,False,3,1,1,1.0,22.0,27.0,28.0,french_food0.png,Le Parisien
+16,7,3,additive,0,0,True,1,False,3,1,1,7.0,28.0,33.0,40.0,french_food2.png,Au Petit Sud Ouest
+16,7,4,additive,0,0,True,1,False,3,1,1,1.0,40.0,45.0,46.0,french_food2.png,Au Petit Sud Ouest
+16,7,5,additive,0,1,False,2,False,3,1,1,3.0,46.0,51.0,54.0,french_food2.png,Le Parisien
+16,7,6,additive,1,1,False,2,False,3,1,1,5.0,54.0,59.0,64.0,french_food0.png,Le Parisien
+16,7,7,additive,1,1,False,2,False,3,1,1,1.0,64.0,69.0,70.0,french_food0.png,Le Parisien
+16,7,8,additive,1,0,True,1,False,3,1,1,3.0,70.0,75.0,78.0,french_food0.png,Au Petit Sud Ouest
+16,7,9,additive,0,1,False,2,False,3,1,1,1.0,78.0,83.0,84.0,french_food2.png,Le Parisien
+16,7,10,additive,0,1,False,2,False,3,1,1,1.0,84.0,89.0,90.0,french_food2.png,Le Parisien
+16,7,11,additive,1,1,False,2,False,3,1,1,1.0,90.0,95.0,96.0,french_food0.png,Le Parisien
+16,7,12,additive,1,0,True,1,False,3,1,1,1.0,96.0,101.0,102.0,french_food0.png,Au Petit Sud Ouest
+16,7,13,additive,1,0,True,1,False,3,1,1,5.0,102.0,107.0,112.0,french_food0.png,Au Petit Sud Ouest
+16,7,14,additive,0,1,False,2,False,3,1,1,3.0,112.0,117.0,120.0,french_food2.png,Le Parisien
+16,7,15,additive,1,0,True,1,False,3,1,1,1.0,120.0,125.0,126.0,french_food0.png,Au Petit Sud Ouest
+16,7,16,additive,1,1,False,2,False,3,1,1,3.0,126.0,131.0,134.0,french_food0.png,Le Parisien
+16,7,17,additive,0,1,False,2,False,3,1,1,1.0,134.0,139.0,140.0,french_food2.png,Le Parisien
+16,7,18,additive,0,0,True,1,False,3,1,1,3.0,140.0,145.0,148.0,french_food2.png,Au Petit Sud Ouest
+16,7,19,additive,0,0,True,1,False,3,1,1,1.0,148.0,153.0,154.0,french_food2.png,Au Petit Sud Ouest
+16,7,20,additive,0,0,None,None,True,6,0,0,2,158.0,164.0,166.0,french_food2.png,Au Petit Sud Ouest
+16,7,21,additive,0,2,None,None,True,6,0,0,6,166.0,172.0,178.0,french_food2.png,Chez Toinette
+16,7,22,additive,2,2,None,None,True,6,0,0,4,178.0,184.0,188.0,french_food1.png,Chez Toinette
+16,7,23,additive,2,0,None,None,True,6,0,0,0,188.0,194.0,194.0,french_food1.png,Au Petit Sud Ouest

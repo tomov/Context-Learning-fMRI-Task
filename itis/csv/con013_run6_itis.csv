@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+13,6,0,modulatory,0,1,False,2,False,3,1,1,1.0,10,15.0,16.0,italian_food2.png,Fino Bar & Restorante
+13,6,1,modulatory,1,0,False,2,False,3,1,1,3.0,16.0,21.0,24.0,italian_food1.png,Restorante Milano
+13,6,2,modulatory,0,0,True,1,False,3,1,1,1.0,24.0,29.0,30.0,italian_food2.png,Restorante Milano
+13,6,3,modulatory,1,1,True,1,False,3,1,1,1.0,30.0,35.0,36.0,italian_food1.png,Fino Bar & Restorante
+13,6,4,modulatory,0,1,False,2,False,3,1,1,1.0,36.0,41.0,42.0,italian_food2.png,Fino Bar & Restorante
+13,6,5,modulatory,0,1,False,2,False,3,1,1,5.0,42.0,47.0,52.0,italian_food2.png,Fino Bar & Restorante
+13,6,6,modulatory,0,0,True,1,False,3,1,1,3.0,52.0,57.0,60.0,italian_food2.png,Restorante Milano
+13,6,7,modulatory,1,0,False,2,False,3,1,1,1.0,60.0,65.0,66.0,italian_food1.png,Restorante Milano
+13,6,8,modulatory,1,0,False,2,False,3,1,1,3.0,66.0,71.0,74.0,italian_food1.png,Restorante Milano
+13,6,9,modulatory,1,1,True,1,False,3,1,1,5.0,74.0,79.0,84.0,italian_food1.png,Fino Bar & Restorante
+13,6,10,modulatory,1,1,True,1,False,3,1,1,3.0,84.0,89.0,92.0,italian_food1.png,Fino Bar & Restorante
+13,6,11,modulatory,1,0,False,2,False,3,1,1,1.0,92.0,97.0,98.0,italian_food1.png,Restorante Milano
+13,6,12,modulatory,1,1,True,1,False,3,1,1,1.0,98.0,103.0,104.0,italian_food1.png,Fino Bar & Restorante
+13,6,13,modulatory,1,0,False,2,False,3,1,1,1.0,104.0,109.0,110.0,italian_food1.png,Restorante Milano
+13,6,14,modulatory,0,1,False,2,False,3,1,1,7.0,110.0,115.0,122.0,italian_food2.png,Fino Bar & Restorante
+13,6,15,modulatory,0,0,True,1,False,3,1,1,1.0,122.0,127.0,128.0,italian_food2.png,Restorante Milano
+13,6,16,modulatory,0,1,False,2,False,3,1,1,1.0,128.0,133.0,134.0,italian_food2.png,Fino Bar & Restorante
+13,6,17,modulatory,1,1,True,1,False,3,1,1,1.0,134.0,139.0,140.0,italian_food1.png,Fino Bar & Restorante
+13,6,18,modulatory,0,0,True,1,False,3,1,1,3.0,140.0,145.0,148.0,italian_food2.png,Restorante Milano
+13,6,19,modulatory,0,0,True,1,False,3,1,1,1.0,148.0,153.0,154.0,italian_food2.png,Restorante Milano
+13,6,20,modulatory,0,0,None,None,True,6,0,0,4,158.0,164.0,168.0,italian_food2.png,Restorante Milano
+13,6,21,modulatory,0,2,None,None,True,6,0,0,2,168.0,174.0,176.0,italian_food2.png,Trattoria Contadina
+13,6,22,modulatory,2,2,None,None,True,6,0,0,6,176.0,182.0,188.0,italian_food0.png,Trattoria Contadina
+13,6,23,modulatory,2,0,None,None,True,6,0,0,0,188.0,194.0,194.0,italian_food0.png,Restorante Milano

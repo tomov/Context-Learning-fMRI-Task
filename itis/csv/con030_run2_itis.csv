@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+30,2,0,additive,1,0,True,1,False,3,1,1,1.0,10,15.0,16.0,brunch_food0.png,Sweet Maple
+30,2,1,additive,0,1,False,2,False,3,1,1,1.0,16.0,21.0,22.0,brunch_food2.png,Mission Beach Cafe
+30,2,2,additive,1,1,False,2,False,3,1,1,3.0,22.0,27.0,30.0,brunch_food0.png,Mission Beach Cafe
+30,2,3,additive,0,1,False,2,False,3,1,1,3.0,30.0,35.0,38.0,brunch_food2.png,Mission Beach Cafe
+30,2,4,additive,0,1,False,2,False,3,1,1,1.0,38.0,43.0,44.0,brunch_food2.png,Mission Beach Cafe
+30,2,5,additive,1,0,True,1,False,3,1,1,3.0,44.0,49.0,52.0,brunch_food0.png,Sweet Maple
+30,2,6,additive,0,0,True,1,False,3,1,1,1.0,52.0,57.0,58.0,brunch_food2.png,Sweet Maple
+30,2,7,additive,1,0,True,1,False,3,1,1,1.0,58.0,63.0,64.0,brunch_food0.png,Sweet Maple
+30,2,8,additive,1,1,False,2,False,3,1,1,1.0,64.0,69.0,70.0,brunch_food0.png,Mission Beach Cafe
+30,2,9,additive,0,0,True,1,False,3,1,1,1.0,70.0,75.0,76.0,brunch_food2.png,Sweet Maple
+30,2,10,additive,1,1,False,2,False,3,1,1,1.0,76.0,81.0,82.0,brunch_food0.png,Mission Beach Cafe
+30,2,11,additive,0,1,False,2,False,3,1,1,1.0,82.0,87.0,88.0,brunch_food2.png,Mission Beach Cafe
+30,2,12,additive,0,1,False,2,False,3,1,1,7.0,88.0,93.0,100.0,brunch_food2.png,Mission Beach Cafe
+30,2,13,additive,1,1,False,2,False,3,1,1,1.0,100.0,105.0,106.0,brunch_food0.png,Mission Beach Cafe
+30,2,14,additive,1,0,True,1,False,3,1,1,3.0,106.0,111.0,114.0,brunch_food0.png,Sweet Maple
+30,2,15,additive,1,0,True,1,False,3,1,1,3.0,114.0,119.0,122.0,brunch_food0.png,Sweet Maple
+30,2,16,additive,0,0,True,1,False,3,1,1,3.0,122.0,127.0,130.0,brunch_food2.png,Sweet Maple
+30,2,17,additive,1,1,False,2,False,3,1,1,7.0,130.0,135.0,142.0,brunch_food0.png,Mission Beach Cafe
+30,2,18,additive,0,0,True,1,False,3,1,1,1.0,142.0,147.0,148.0,brunch_food2.png,Sweet Maple
+30,2,19,additive,0,0,True,1,False,3,1,1,1.0,148.0,153.0,154.0,brunch_food2.png,Sweet Maple
+30,2,20,additive,0,2,None,None,True,6,0,0,2,158.0,164.0,166.0,brunch_food2.png,Breakfast at Tiffany's
+30,2,21,additive,0,0,None,None,True,6,0,0,4,166.0,172.0,176.0,brunch_food2.png,Sweet Maple
+30,2,22,additive,2,0,None,None,True,6,0,0,6,176.0,182.0,188.0,brunch_food1.png,Sweet Maple
+30,2,23,additive,2,2,None,None,True,6,0,0,0,188.0,194.0,194.0,brunch_food1.png,Breakfast at Tiffany's

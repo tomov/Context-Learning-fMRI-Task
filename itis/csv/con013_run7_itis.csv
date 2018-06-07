@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+13,7,0,irrelevant,0,0,True,1,False,3,1,1,3.0,10,15.0,18.0,mexican_food1.png,El Coyote Cafe
+13,7,1,irrelevant,0,1,True,1,False,3,1,1,5.0,18.0,23.0,28.0,mexican_food1.png,Restaurante Arroyo
+13,7,2,irrelevant,1,1,False,2,False,3,1,1,3.0,28.0,33.0,36.0,mexican_food0.png,Restaurante Arroyo
+13,7,3,irrelevant,1,1,False,2,False,3,1,1,1.0,36.0,41.0,42.0,mexican_food0.png,Restaurante Arroyo
+13,7,4,irrelevant,1,1,False,2,False,3,1,1,1.0,42.0,47.0,48.0,mexican_food0.png,Restaurante Arroyo
+13,7,5,irrelevant,0,1,True,1,False,3,1,1,1.0,48.0,53.0,54.0,mexican_food1.png,Restaurante Arroyo
+13,7,6,irrelevant,0,0,True,1,False,3,1,1,1.0,54.0,59.0,60.0,mexican_food1.png,El Coyote Cafe
+13,7,7,irrelevant,0,0,True,1,False,3,1,1,1.0,60.0,65.0,66.0,mexican_food1.png,El Coyote Cafe
+13,7,8,irrelevant,0,1,True,1,False,3,1,1,1.0,66.0,71.0,72.0,mexican_food1.png,Restaurante Arroyo
+13,7,9,irrelevant,1,0,False,2,False,3,1,1,5.0,72.0,77.0,82.0,mexican_food0.png,El Coyote Cafe
+13,7,10,irrelevant,1,0,False,2,False,3,1,1,1.0,82.0,87.0,88.0,mexican_food0.png,El Coyote Cafe
+13,7,11,irrelevant,1,1,False,2,False,3,1,1,1.0,88.0,93.0,94.0,mexican_food0.png,Restaurante Arroyo
+13,7,12,irrelevant,1,0,False,2,False,3,1,1,3.0,94.0,99.0,102.0,mexican_food0.png,El Coyote Cafe
+13,7,13,irrelevant,0,1,True,1,False,3,1,1,1.0,102.0,107.0,108.0,mexican_food1.png,Restaurante Arroyo
+13,7,14,irrelevant,0,1,True,1,False,3,1,1,7.0,108.0,113.0,120.0,mexican_food1.png,Restaurante Arroyo
+13,7,15,irrelevant,1,0,False,2,False,3,1,1,1.0,120.0,125.0,126.0,mexican_food0.png,El Coyote Cafe
+13,7,16,irrelevant,0,0,True,1,False,3,1,1,3.0,126.0,131.0,134.0,mexican_food1.png,El Coyote Cafe
+13,7,17,irrelevant,1,1,False,2,False,3,1,1,1.0,134.0,139.0,140.0,mexican_food0.png,Restaurante Arroyo
+13,7,18,irrelevant,0,0,True,1,False,3,1,1,1.0,140.0,145.0,146.0,mexican_food1.png,El Coyote Cafe
+13,7,19,irrelevant,1,0,False,2,False,3,1,1,3.0,146.0,151.0,154.0,mexican_food0.png,El Coyote Cafe
+13,7,20,irrelevant,0,2,None,None,True,6,0,0,6,158.0,164.0,170.0,mexican_food1.png,Molina's Cantina
+13,7,21,irrelevant,2,2,None,None,True,6,0,0,4,170.0,176.0,180.0,mexican_food2.png,Molina's Cantina
+13,7,22,irrelevant,2,0,None,None,True,6,0,0,2,180.0,186.0,188.0,mexican_food2.png,El Coyote Cafe
+13,7,23,irrelevant,0,0,None,None,True,6,0,0,0,188.0,194.0,194.0,mexican_food1.png,El Coyote Cafe

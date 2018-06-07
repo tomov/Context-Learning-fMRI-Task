@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+11,1,0,additive,0,0,True,1,False,3,1,1,1.0,10,15.0,16.0,mexican_food2.png,Restaurante Arroyo
+11,1,1,additive,1,0,True,1,False,3,1,1,1.0,16.0,21.0,22.0,mexican_food1.png,Restaurante Arroyo
+11,1,2,additive,1,0,True,1,False,3,1,1,1.0,22.0,27.0,28.0,mexican_food1.png,Restaurante Arroyo
+11,1,3,additive,1,1,False,2,False,3,1,1,1.0,28.0,33.0,34.0,mexican_food1.png,Molina's Cantina
+11,1,4,additive,0,1,False,2,False,3,1,1,3.0,34.0,39.0,42.0,mexican_food2.png,Molina's Cantina
+11,1,5,additive,0,1,False,2,False,3,1,1,1.0,42.0,47.0,48.0,mexican_food2.png,Molina's Cantina
+11,1,6,additive,0,0,True,1,False,3,1,1,1.0,48.0,53.0,54.0,mexican_food2.png,Restaurante Arroyo
+11,1,7,additive,0,0,True,1,False,3,1,1,3.0,54.0,59.0,62.0,mexican_food2.png,Restaurante Arroyo
+11,1,8,additive,0,0,True,1,False,3,1,1,5.0,62.0,67.0,72.0,mexican_food2.png,Restaurante Arroyo
+11,1,9,additive,1,1,False,2,False,3,1,1,1.0,72.0,77.0,78.0,mexican_food1.png,Molina's Cantina
+11,1,10,additive,1,0,True,1,False,3,1,1,3.0,78.0,83.0,86.0,mexican_food1.png,Restaurante Arroyo
+11,1,11,additive,0,1,False,2,False,3,1,1,3.0,86.0,91.0,94.0,mexican_food2.png,Molina's Cantina
+11,1,12,additive,1,0,True,1,False,3,1,1,3.0,94.0,99.0,102.0,mexican_food1.png,Restaurante Arroyo
+11,1,13,additive,1,1,False,2,False,3,1,1,3.0,102.0,107.0,110.0,mexican_food1.png,Molina's Cantina
+11,1,14,additive,1,1,False,2,False,3,1,1,1.0,110.0,115.0,116.0,mexican_food1.png,Molina's Cantina
+11,1,15,additive,1,1,False,2,False,3,1,1,7.0,116.0,121.0,128.0,mexican_food1.png,Molina's Cantina
+11,1,16,additive,0,1,False,2,False,3,1,1,1.0,128.0,133.0,134.0,mexican_food2.png,Molina's Cantina
+11,1,17,additive,0,1,False,2,False,3,1,1,1.0,134.0,139.0,140.0,mexican_food2.png,Molina's Cantina
+11,1,18,additive,1,0,True,1,False,3,1,1,3.0,140.0,145.0,148.0,mexican_food1.png,Restaurante Arroyo
+11,1,19,additive,0,0,True,1,False,3,1,1,1.0,148.0,153.0,154.0,mexican_food2.png,Restaurante Arroyo
+11,1,20,additive,2,0,None,None,True,6,0,0,6,158.0,164.0,170.0,mexican_food0.png,Restaurante Arroyo
+11,1,21,additive,0,0,None,None,True,6,0,0,2,170.0,176.0,178.0,mexican_food2.png,Restaurante Arroyo
+11,1,22,additive,0,2,None,None,True,6,0,0,4,178.0,184.0,188.0,mexican_food2.png,El Coyote Cafe
+11,1,23,additive,2,2,None,None,True,6,0,0,0,188.0,194.0,194.0,mexican_food0.png,El Coyote Cafe

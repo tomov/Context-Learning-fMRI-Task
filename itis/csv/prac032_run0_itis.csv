@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+32,0,0,modulatory,0,0,True,1,False,3,1,1,7.0,10,15.0,22.0,practice_food1.png,Blue Bottle Cafe
+32,0,1,modulatory,0,1,False,2,False,3,1,1,1.0,22.0,27.0,28.0,practice_food1.png,Restaurant Gary Danko
+32,0,2,modulatory,0,0,True,1,False,3,1,1,1.0,28.0,33.0,34.0,practice_food1.png,Blue Bottle Cafe
+32,0,3,modulatory,0,1,False,2,False,3,1,1,1.0,34.0,39.0,40.0,practice_food1.png,Restaurant Gary Danko
+32,0,4,modulatory,1,1,True,1,False,3,1,1,1.0,40.0,45.0,46.0,practice_food0.png,Restaurant Gary Danko
+32,0,5,modulatory,1,1,True,1,False,3,1,1,3.0,46.0,51.0,54.0,practice_food0.png,Restaurant Gary Danko
+32,0,6,modulatory,1,0,False,2,False,3,1,1,1.0,54.0,59.0,60.0,practice_food0.png,Blue Bottle Cafe
+32,0,7,modulatory,1,0,False,2,False,3,1,1,1.0,60.0,65.0,66.0,practice_food0.png,Blue Bottle Cafe
+32,0,8,modulatory,0,0,True,1,False,3,1,1,3.0,66.0,71.0,74.0,practice_food1.png,Blue Bottle Cafe
+32,0,9,modulatory,1,1,True,1,False,3,1,1,1.0,74.0,79.0,80.0,practice_food0.png,Restaurant Gary Danko
+32,0,10,modulatory,0,0,True,1,False,3,1,1,3.0,80.0,85.0,88.0,practice_food1.png,Blue Bottle Cafe
+32,0,11,modulatory,0,1,False,2,False,3,1,1,1.0,88.0,93.0,94.0,practice_food1.png,Restaurant Gary Danko
+32,0,12,modulatory,1,0,False,2,False,3,1,1,3.0,94.0,99.0,102.0,practice_food0.png,Blue Bottle Cafe
+32,0,13,modulatory,1,1,True,1,False,3,1,1,1.0,102.0,107.0,108.0,practice_food0.png,Restaurant Gary Danko
+32,0,14,modulatory,1,0,False,2,False,3,1,1,5.0,108.0,113.0,118.0,practice_food0.png,Blue Bottle Cafe
+32,0,15,modulatory,1,0,False,2,False,3,1,1,1.0,118.0,123.0,124.0,practice_food0.png,Blue Bottle Cafe
+32,0,16,modulatory,0,1,False,2,False,3,1,1,3.0,124.0,129.0,132.0,practice_food1.png,Restaurant Gary Danko
+32,0,17,modulatory,1,1,True,1,False,3,1,1,1.0,132.0,137.0,138.0,practice_food0.png,Restaurant Gary Danko
+32,0,18,modulatory,0,1,False,2,False,3,1,1,5.0,138.0,143.0,148.0,practice_food1.png,Restaurant Gary Danko
+32,0,19,modulatory,0,0,True,1,False,3,1,1,1.0,148.0,153.0,154.0,practice_food1.png,Blue Bottle Cafe
+32,0,20,modulatory,2,2,None,None,True,6,0,0,4,158.0,164.0,168.0,practice_food2.png,Seven Hills
+32,0,21,modulatory,0,0,None,None,True,6,0,0,2,168.0,174.0,176.0,practice_food1.png,Blue Bottle Cafe
+32,0,22,modulatory,0,2,None,None,True,6,0,0,6,176.0,182.0,188.0,practice_food1.png,Seven Hills
+32,0,23,modulatory,2,0,None,None,True,6,0,0,0,188.0,194.0,194.0,practice_food2.png,Blue Bottle Cafe

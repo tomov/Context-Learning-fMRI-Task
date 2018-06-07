@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+30,0,0,irrelevant,0,0,True,1,False,3,1,1,1.0,10,15.0,16.0,japanese_food0.png,Onigilly Express
+30,0,1,irrelevant,0,0,True,1,False,3,1,1,3.0,16.0,21.0,24.0,japanese_food0.png,Onigilly Express
+30,0,2,irrelevant,1,1,False,2,False,3,1,1,3.0,24.0,29.0,32.0,japanese_food1.png,Sanraku Restaurant
+30,0,3,irrelevant,1,1,False,2,False,3,1,1,1.0,32.0,37.0,38.0,japanese_food1.png,Sanraku Restaurant
+30,0,4,irrelevant,1,0,False,2,False,3,1,1,1.0,38.0,43.0,44.0,japanese_food1.png,Onigilly Express
+30,0,5,irrelevant,1,0,False,2,False,3,1,1,7.0,44.0,49.0,56.0,japanese_food1.png,Onigilly Express
+30,0,6,irrelevant,0,1,True,1,False,3,1,1,5.0,56.0,61.0,66.0,japanese_food0.png,Sanraku Restaurant
+30,0,7,irrelevant,1,0,False,2,False,3,1,1,1.0,66.0,71.0,72.0,japanese_food1.png,Onigilly Express
+30,0,8,irrelevant,1,1,False,2,False,3,1,1,1.0,72.0,77.0,78.0,japanese_food1.png,Sanraku Restaurant
+30,0,9,irrelevant,0,0,True,1,False,3,1,1,3.0,78.0,83.0,86.0,japanese_food0.png,Onigilly Express
+30,0,10,irrelevant,1,0,False,2,False,3,1,1,3.0,86.0,91.0,94.0,japanese_food1.png,Onigilly Express
+30,0,11,irrelevant,0,0,True,1,False,3,1,1,3.0,94.0,99.0,102.0,japanese_food0.png,Onigilly Express
+30,0,12,irrelevant,0,1,True,1,False,3,1,1,1.0,102.0,107.0,108.0,japanese_food0.png,Sanraku Restaurant
+30,0,13,irrelevant,1,1,False,2,False,3,1,1,1.0,108.0,113.0,114.0,japanese_food1.png,Sanraku Restaurant
+30,0,14,irrelevant,0,1,True,1,False,3,1,1,1.0,114.0,119.0,120.0,japanese_food0.png,Sanraku Restaurant
+30,0,15,irrelevant,0,0,True,1,False,3,1,1,1.0,120.0,125.0,126.0,japanese_food0.png,Onigilly Express
+30,0,16,irrelevant,1,1,False,2,False,3,1,1,1.0,126.0,131.0,132.0,japanese_food1.png,Sanraku Restaurant
+30,0,17,irrelevant,0,1,True,1,False,3,1,1,5.0,132.0,137.0,142.0,japanese_food0.png,Sanraku Restaurant
+30,0,18,irrelevant,0,1,True,1,False,3,1,1,1.0,142.0,147.0,148.0,japanese_food0.png,Sanraku Restaurant
+30,0,19,irrelevant,1,0,False,2,False,3,1,1,1.0,148.0,153.0,154.0,japanese_food1.png,Onigilly Express
+30,0,20,irrelevant,0,2,None,None,True,6,0,0,2,158.0,164.0,166.0,japanese_food0.png,Izakaya Sozai
+30,0,21,irrelevant,2,0,None,None,True,6,0,0,4,166.0,172.0,176.0,japanese_food2.png,Onigilly Express
+30,0,22,irrelevant,0,0,None,None,True,6,0,0,6,176.0,182.0,188.0,japanese_food0.png,Onigilly Express
+30,0,23,irrelevant,2,2,None,None,True,6,0,0,0,188.0,194.0,194.0,japanese_food2.png,Izakaya Sozai

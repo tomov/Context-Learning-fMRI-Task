@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+5,2,0,irrelevant,1,0,False,2,False,3,1,1,3.0,10,15.0,18.0,french_food0.png,Le Parisien
+5,2,1,irrelevant,0,1,True,1,False,3,1,1,1.0,18.0,23.0,24.0,french_food1.png,Chez Toinette
+5,2,2,irrelevant,1,1,False,2,False,3,1,1,3.0,24.0,29.0,32.0,french_food0.png,Chez Toinette
+5,2,3,irrelevant,0,1,True,1,False,3,1,1,3.0,32.0,37.0,40.0,french_food1.png,Chez Toinette
+5,2,4,irrelevant,1,0,False,2,False,3,1,1,1.0,40.0,45.0,46.0,french_food0.png,Le Parisien
+5,2,5,irrelevant,0,0,True,1,False,3,1,1,5.0,46.0,51.0,56.0,french_food1.png,Le Parisien
+5,2,6,irrelevant,1,1,False,2,False,3,1,1,1.0,56.0,61.0,62.0,french_food0.png,Chez Toinette
+5,2,7,irrelevant,1,0,False,2,False,3,1,1,1.0,62.0,67.0,68.0,french_food0.png,Le Parisien
+5,2,8,irrelevant,1,0,False,2,False,3,1,1,1.0,68.0,73.0,74.0,french_food0.png,Le Parisien
+5,2,9,irrelevant,1,1,False,2,False,3,1,1,3.0,74.0,79.0,82.0,french_food0.png,Chez Toinette
+5,2,10,irrelevant,0,0,True,1,False,3,1,1,7.0,82.0,87.0,94.0,french_food1.png,Le Parisien
+5,2,11,irrelevant,0,0,True,1,False,3,1,1,3.0,94.0,99.0,102.0,french_food1.png,Le Parisien
+5,2,12,irrelevant,0,0,True,1,False,3,1,1,1.0,102.0,107.0,108.0,french_food1.png,Le Parisien
+5,2,13,irrelevant,1,1,False,2,False,3,1,1,1.0,108.0,113.0,114.0,french_food0.png,Chez Toinette
+5,2,14,irrelevant,0,0,True,1,False,3,1,1,1.0,114.0,119.0,120.0,french_food1.png,Le Parisien
+5,2,15,irrelevant,0,1,True,1,False,3,1,1,1.0,120.0,125.0,126.0,french_food1.png,Chez Toinette
+5,2,16,irrelevant,0,1,True,1,False,3,1,1,3.0,126.0,131.0,134.0,french_food1.png,Chez Toinette
+5,2,17,irrelevant,1,1,False,2,False,3,1,1,1.0,134.0,139.0,140.0,french_food0.png,Chez Toinette
+5,2,18,irrelevant,0,1,True,1,False,3,1,1,1.0,140.0,145.0,146.0,french_food1.png,Chez Toinette
+5,2,19,irrelevant,1,0,False,2,False,3,1,1,3.0,146.0,151.0,154.0,french_food0.png,Le Parisien
+5,2,20,irrelevant,0,0,None,None,True,6,0,0,4,158.0,164.0,168.0,french_food1.png,Le Parisien
+5,2,21,irrelevant,2,0,None,None,True,6,0,0,6,168.0,174.0,180.0,french_food2.png,Le Parisien
+5,2,22,irrelevant,0,2,None,None,True,6,0,0,2,180.0,186.0,188.0,french_food1.png,Au Petit Sud Ouest
+5,2,23,irrelevant,2,2,None,None,True,6,0,0,0,188.0,194.0,194.0,french_food2.png,Au Petit Sud Ouest

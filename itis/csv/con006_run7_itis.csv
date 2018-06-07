@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+6,7,0,additive,1,1,False,2,False,3,1,1,7.0,10,15.0,22.0,japanese_food2.png,Sanraku Restaurant
+6,7,1,additive,1,0,True,1,False,3,1,1,1.0,22.0,27.0,28.0,japanese_food2.png,Izakaya Sozai
+6,7,2,additive,1,1,False,2,False,3,1,1,1.0,28.0,33.0,34.0,japanese_food2.png,Sanraku Restaurant
+6,7,3,additive,0,0,True,1,False,3,1,1,1.0,34.0,39.0,40.0,japanese_food0.png,Izakaya Sozai
+6,7,4,additive,1,1,False,2,False,3,1,1,1.0,40.0,45.0,46.0,japanese_food2.png,Sanraku Restaurant
+6,7,5,additive,1,1,False,2,False,3,1,1,3.0,46.0,51.0,54.0,japanese_food2.png,Sanraku Restaurant
+6,7,6,additive,0,0,True,1,False,3,1,1,1.0,54.0,59.0,60.0,japanese_food0.png,Izakaya Sozai
+6,7,7,additive,0,1,False,2,False,3,1,1,3.0,60.0,65.0,68.0,japanese_food0.png,Sanraku Restaurant
+6,7,8,additive,0,0,True,1,False,3,1,1,3.0,68.0,73.0,76.0,japanese_food0.png,Izakaya Sozai
+6,7,9,additive,0,1,False,2,False,3,1,1,1.0,76.0,81.0,82.0,japanese_food0.png,Sanraku Restaurant
+6,7,10,additive,0,1,False,2,False,3,1,1,3.0,82.0,87.0,90.0,japanese_food0.png,Sanraku Restaurant
+6,7,11,additive,1,0,True,1,False,3,1,1,1.0,90.0,95.0,96.0,japanese_food2.png,Izakaya Sozai
+6,7,12,additive,0,1,False,2,False,3,1,1,5.0,96.0,101.0,106.0,japanese_food0.png,Sanraku Restaurant
+6,7,13,additive,0,0,True,1,False,3,1,1,5.0,106.0,111.0,116.0,japanese_food0.png,Izakaya Sozai
+6,7,14,additive,1,1,False,2,False,3,1,1,1.0,116.0,121.0,122.0,japanese_food2.png,Sanraku Restaurant
+6,7,15,additive,1,0,True,1,False,3,1,1,1.0,122.0,127.0,128.0,japanese_food2.png,Izakaya Sozai
+6,7,16,additive,1,0,True,1,False,3,1,1,3.0,128.0,133.0,136.0,japanese_food2.png,Izakaya Sozai
+6,7,17,additive,0,1,False,2,False,3,1,1,1.0,136.0,141.0,142.0,japanese_food0.png,Sanraku Restaurant
+6,7,18,additive,0,0,True,1,False,3,1,1,1.0,142.0,147.0,148.0,japanese_food0.png,Izakaya Sozai
+6,7,19,additive,1,0,True,1,False,3,1,1,1.0,148.0,153.0,154.0,japanese_food2.png,Izakaya Sozai
+6,7,20,additive,2,2,None,None,True,6,0,0,6,158.0,164.0,170.0,japanese_food1.png,Onigilly Express
+6,7,21,additive,2,0,None,None,True,6,0,0,4,170.0,176.0,180.0,japanese_food1.png,Izakaya Sozai
+6,7,22,additive,0,2,None,None,True,6,0,0,2,180.0,186.0,188.0,japanese_food0.png,Onigilly Express
+6,7,23,additive,0,0,None,None,True,6,0,0,0,188.0,194.0,194.0,japanese_food0.png,Izakaya Sozai

@@ -1,0 +1,25 @@
+subjectN,runN,trialN,contextRole,cueId,contextId,isSick,corrButton,isTest,choiceDuration,isiDuration,feedbackDuration,itiDuration,stimOnset,stimOffset,itiOffset,food,restaurant
+16,6,0,modulatory,0,0,True,1,False,3,1,1,3.0,10,15.0,18.0,greek_food1.png,Mediterranean Grill
+16,6,1,modulatory,1,0,False,2,False,3,1,1,3.0,18.0,23.0,26.0,greek_food0.png,Mediterranean Grill
+16,6,2,modulatory,0,1,False,2,False,3,1,1,1.0,26.0,31.0,32.0,greek_food1.png,Gyro King
+16,6,3,modulatory,0,1,False,2,False,3,1,1,3.0,32.0,37.0,40.0,greek_food1.png,Gyro King
+16,6,4,modulatory,1,1,True,1,False,3,1,1,1.0,40.0,45.0,46.0,greek_food0.png,Gyro King
+16,6,5,modulatory,1,0,False,2,False,3,1,1,3.0,46.0,51.0,54.0,greek_food0.png,Mediterranean Grill
+16,6,6,modulatory,1,1,True,1,False,3,1,1,1.0,54.0,59.0,60.0,greek_food0.png,Gyro King
+16,6,7,modulatory,1,1,True,1,False,3,1,1,3.0,60.0,65.0,68.0,greek_food0.png,Gyro King
+16,6,8,modulatory,0,0,True,1,False,3,1,1,1.0,68.0,73.0,74.0,greek_food1.png,Mediterranean Grill
+16,6,9,modulatory,0,0,True,1,False,3,1,1,1.0,74.0,79.0,80.0,greek_food1.png,Mediterranean Grill
+16,6,10,modulatory,1,0,False,2,False,3,1,1,5.0,80.0,85.0,90.0,greek_food0.png,Mediterranean Grill
+16,6,11,modulatory,1,1,True,1,False,3,1,1,3.0,90.0,95.0,98.0,greek_food0.png,Gyro King
+16,6,12,modulatory,0,1,False,2,False,3,1,1,1.0,98.0,103.0,104.0,greek_food1.png,Gyro King
+16,6,13,modulatory,0,0,True,1,False,3,1,1,7.0,104.0,109.0,116.0,greek_food1.png,Mediterranean Grill
+16,6,14,modulatory,1,0,False,2,False,3,1,1,1.0,116.0,121.0,122.0,greek_food0.png,Mediterranean Grill
+16,6,15,modulatory,0,0,True,1,False,3,1,1,1.0,122.0,127.0,128.0,greek_food1.png,Mediterranean Grill
+16,6,16,modulatory,0,1,False,2,False,3,1,1,1.0,128.0,133.0,134.0,greek_food1.png,Gyro King
+16,6,17,modulatory,1,0,False,2,False,3,1,1,1.0,134.0,139.0,140.0,greek_food0.png,Mediterranean Grill
+16,6,18,modulatory,0,1,False,2,False,3,1,1,1.0,140.0,145.0,146.0,greek_food1.png,Gyro King
+16,6,19,modulatory,1,1,True,1,False,3,1,1,3.0,146.0,151.0,154.0,greek_food0.png,Gyro King
+16,6,20,modulatory,2,0,None,None,True,6,0,0,4,158.0,164.0,168.0,greek_food2.png,Mediterranean Grill
+16,6,21,modulatory,0,2,None,None,True,6,0,0,6,168.0,174.0,180.0,greek_food1.png,Myconos Restaurant
+16,6,22,modulatory,2,2,None,None,True,6,0,0,2,180.0,186.0,188.0,greek_food2.png,Myconos Restaurant
+16,6,23,modulatory,0,0,None,None,True,6,0,0,0,188.0,194.0,194.0,greek_food1.png,Mediterranean Grill
